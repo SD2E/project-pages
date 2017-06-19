@@ -1,8 +1,0 @@
----
-layout:     post
-title:      Working together
-author:     Matthew Vaughn
-tags: 		resources
-subtitle:  	Collaboration tools for the SD2 project
-category:  all
----

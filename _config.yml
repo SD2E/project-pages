@@ -10,9 +10,10 @@ headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/sd2e-logo.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
+twitter_username: darpa_sd2e
+github_username:  SD2E
+# project_repository: www
+# disqus_shortname: SD2E
 g-analytics: UA-101187064-1
 altmetric: false
 
