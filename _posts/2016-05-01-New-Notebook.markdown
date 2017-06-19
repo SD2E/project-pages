@@ -1,9 +1,9 @@
 ---
 layout:     notebook
-title:      New Notebook
+title:      Example Jupyter Notebook
 author:     Ahmet Cecen
-tags: 		jupyter workflows template
-subtitle:   Showcasing Jupyter Notebook Translator Layout
+tags: 		jupyter template
+subtitle:   Showcasing Jupyter Notebook translator layout
 category:  project1
 
 notebookfilename: intro

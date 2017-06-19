@@ -1,9 +1,9 @@
 ---
 layout:     	slide
-title:     		New Presentation
+title:     		Example Presentation
 author:     	Ahmet Cecen
 tags:           presentation template
-subtitle:    	Some Short Description of Presentation
+subtitle:    	Example web-based presentation
 
 theme:		night # default/beige/blood/moon/night/serif/simple/sky/solarized
 trans:		default # default/cube/page/concave/zoom/linear/fade/none

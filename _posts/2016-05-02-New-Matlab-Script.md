@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      New Matlab Script
+title:      Example Matlab Script
 author:     Ahmet Cecen
-tags: 		matlab workflows template
-subtitle:   Some Short Description of the Script
+tags: 		matlab template
+subtitle:   Demonstrating Matlab inregration layout
 category:  project1
 visualworkflow: true
 ---
