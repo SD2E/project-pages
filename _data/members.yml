@@ -2,50 +2,50 @@
 
 - name: Matthew Vaughn, Ph.D.
   role: Principal Investigator / SD2E Cyberinfrastructure
-  img: https://www.tacc.utexas.edu/documents/1084364/1085297/matt-vaughn.jpg
+  img: /img/portraits/matt-vaughn.jpg
   github: mwvaughn
   gplus:
   bio:
-  url: 
+  url: https://www.tacc.utexas.edu/about/directory/matthew-vaughn
   visible: true
 
 - name: Mary John, ITIL, SFC
   role: Project Manager / SD2E Cyberinfrastructure
-  img: https://www.tacc.utexas.edu/documents/1084364/1085221/mary-john.png
+  img: /img/portraits/mary-john.png
   github:
   bio:
-  url: 
+  url: https://www.tacc.utexas.edu/about/directory/mary-john
   visible: true
    
 - name: Niall Gaffney, Ph.D.
   role: Lead, Data Management / SD2E Cyberinfrastructure
-  img: https://www.tacc.utexas.edu/documents/1084364/1085297/niall-gaffney.jpg
+  img: /img/portraits/niall-gaffney.jpg
   github:
   bio:
-  url: 
+  url: https://www.tacc.utexas.edu/about/directory/niall-gaffney
   visible: true
 
 - name: John Fonner, Ph.D.
   role: Lead, Analytics Environments / SD2E Cyberinfrastructure
-  img: https://www.tacc.utexas.edu/documents/1084364/1085221/john-fonner.png
+  img: /img/portraits/john-fonner.png
   github: johnfonner
   bio:
-  url: 
+  url: https://www.tacc.utexas.edu/about/directory/john-fonner
   visible: true
 
 - name: James Carson, Ph.D.
   role: Lead, User Engagement and Support / SD2E Cyberinfrastructure
-  img: https://www.tacc.utexas.edu/documents/1084364/1085221/james-carson.png
+  img: /img/portraits/james-carson.png
   github: jamescarson3
   bio:
-  url: 
+  url: https://www.tacc.utexas.edu/about/directory
   visible: true
 
 - name: Joe Stubbs, Ph.D.
-  role: Lead, Hosted Infrastructure / SD2E Cyberinfrastructure
-  img: https://www.tacc.utexas.edu/documents/1084364/1085221/Stubbs-2017.jpeg
+  role: Lead, Cloud Infrastructure / SD2E Cyberinfrastructure
+  img: /img/portraits/Stubbs-2017.jpeg
   github: joestubbs
   bio:
-  url: 
+  url: https://www.tacc.utexas.edu/about/directory/joe-stubbs
   visible: true
 
