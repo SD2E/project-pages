@@ -9,13 +9,21 @@ category:   all
 
 # Resources
 
+## Google Drive
+
+This is a folder with relatively open edit permissions for holding uploaded files and hosting collaborative documents. Restricted to project members until we collectively decide otherwise.
+
+All Google Group members as of 6/24 should have been invited already.
+
+[https://drive.google.com/drive/u/0/folders/0BwJXMnMq5iNMbWFqVUhwOHpzcVE](Google Drive Folder)
+
 ## Google Group
 
 Organized as a web forum for persistent, long-form discussions. Restricted to project members until we collectively decide otherwise.
 
 Email `SD2Eorg-at-gmail-dot-com` to be invited.
 
-[https://groups.google.com/forum/#!forum/darpa-sd2](https://groups.google.com/forum/#!forum/darpa-sd2)
+[https://groups.google.com/forum/#!forum/darpa-sd2](DARPA-SD2 Forum)
 
 ## Team Slack
 
